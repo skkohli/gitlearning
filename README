@@ -1,2 +1,11 @@
-This is my readme file for git learning. 
-Adding one more line to read me. 
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>index file</title>
+	</head>
+	<body>
+		<h1>welcome to git</h1>
+	</body>
+</html>
